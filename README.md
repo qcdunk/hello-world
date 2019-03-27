@@ -1,3 +1,3 @@
 # hello-world
 test project
-not sure what this is?
+this is a test and self intro
